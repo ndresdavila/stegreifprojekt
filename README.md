@@ -1,2 +1,2 @@
 # stegreifprojekt
-burger menu
+java excercise that simulates ordering a burger from a menu
